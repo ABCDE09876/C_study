@@ -1,0 +1,3 @@
+﻿  loop.c
+printscanf.obj : error LNK2005: _main이(가) loop.obj에 이미 정의되어 있습니다.
+C:\Users\t0104\source\repos\myproject\Debug\myproject.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
